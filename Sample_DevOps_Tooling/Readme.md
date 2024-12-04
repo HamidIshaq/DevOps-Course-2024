@@ -2,6 +2,8 @@
 
 In this guide, we'll set up a CI/CD pipeline using GitHub Actions to build a Docker image from your repository and push it to a container registry (e.g., Docker Hub).
 
+![CI/CD Pipeline](Screenshot(3).png)
+
 ---
 
 ## Prerequisites
@@ -113,13 +115,13 @@ Replace `my-app` with the name of your Docker repository.
 ## Example Workflow Outputs
 
 ### Workflow File
-![GitHub Actions Workflow File](path/to/your-workflow-file-screenshot.png)
+![GitHub Actions Workflow File](Screenshot(4).png)
 
 ### Workflow Execution Logs
-![GitHub Actions Logs](path/to/your-logs-screenshot.png)
+![GitHub Actions Logs](Screenshot(5).png)
 
 ### Docker Hub Image
-![Docker Hub Image](path/to/your-docker-hub-screenshot.png)
+![Docker Hub Image](Screenshot(6).png)
 
 ---
 
