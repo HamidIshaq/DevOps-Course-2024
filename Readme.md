@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [GitHub Landing Page](./profile.md)
-2. [Sample DevOps Tooling](./Sample_Devops_Tooling/)
+2. [Sample DevOps Tooling](./Sample_Devops_Tooling)
 3. [A Guide to My Learning and Contributions in DevOps](#a-guide-to-my-learning-and-contributions-in-devops)
 4. [Tools I Learned](#tools-i-learned)
 5. [Blog Summaries](#blog-summaries)
