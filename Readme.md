@@ -1,5 +1,16 @@
 # DevOps Learning Journey
 
+## Table of Contents
+1. [GitHub Landing Page](./profile.md)
+2. [Sample DevOps Tooling](./Sample_Devops_Tooling/)
+3. [A Guide to My Learning and Contributions in DevOps](#a-guide-to-my-learning-and-contributions-in-devops)
+4. [Tools I Learned](#tools-i-learned)
+5. [Blog Summaries](#blog-summaries)
+   - [Blog 1: Real-Time Anomaly Detection for Universities](#blog-1-real-time-anomaly-detection-for-universities-a-cost-effective-intelligent-security-solution)
+   - [Blog 2: KNative’s Role in DevOps](#blog-2-knatives-role-in-devops-and-how-to-use-it-a-step-by-step-guide)
+
+---
+
 ## A Guide to My Learning and Contributions in DevOps
 
 This document summarizes my learning path and contributions to the DevOps field, including insights from two of my blogs. The goal is to guide others by expanding on my existing knowledge and experiences.
@@ -30,4 +41,3 @@ This blog provides an introduction to KNative, its significance in streamlining 
 For more details, you can read the blogs on Medium:
 - [Blog 1](https://medium.com/@hamidishaq476/real-time-anomaly-detection-for-universities-a-cost-effective-intelligent-security-solution-33d4ca54fc47)
 - [Blog 2](https://medium.com/@hamidishaq476/knatives-role-in-devops-and-how-to-use-it-a-step-by-step-guide-23f8fa1b1716)
-
